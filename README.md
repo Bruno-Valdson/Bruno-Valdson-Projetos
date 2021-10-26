@@ -24,7 +24,7 @@
 
 
 
-- IFTO - Instituto Federal do Tocantins - Bacharelado e Licenciatura, Ciência da Computação · (2016 - trancado).
+- IFTO - Instituto Federal do Tocantins - Bacharelado e Licenciatura, Ciência da Computação · (2016 - Trancado).
 - UNOPAR - Universidade Norte do Paraná - Curso Superior de Tecnologia (CST), Análise e Desenvolvimento de Sistemas · (fevereiro de 2020 - dezembro de 2021).
 
 
