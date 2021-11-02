@@ -18,7 +18,7 @@ body {
     background-color: #fff;
     border-radius: 15px;
     width: 960px;
-    height: 40%;
+    height: 50%;
     justify-content: space-between;
     align-items: center;
     position: relative;
@@ -222,8 +222,8 @@ body {
 /*VERSÃO MOBILE*/
 @media screen and (max-width: 980px) {
     .content {
-        width: 80%;
-        height: 80%;
+        width: 70%;
+        height: 70%;
     }
 
     .content::before {
