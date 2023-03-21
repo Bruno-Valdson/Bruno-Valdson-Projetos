@@ -10,13 +10,13 @@
 
 - (63) 99240-2312 - WhatsApp
 - bruno.valdson@outlook.com.br ou bvaldson19@gmail.com - e-mail
+- LinkedIn - https://www.linkedin.com/in/bruno-valdson/
 
 
 
 ### Resumo
 
-- Gerente Analista de Suporte de Sistema na Colinas Informática Representante ERP Nortesys.
-- Estudando para se tornar um desenvolvedor Full Stack.
+- Analista de Sistemas | Analista de Suporte ERP & CRM | Estudando Web FullStack |Estudando Dev .Net.
 
 
 
