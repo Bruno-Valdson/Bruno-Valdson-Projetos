@@ -1,2 +1,1 @@
-# Turma-Schneider
-Git compartilhado da turma do Schneider
+# Projeto criar uma tela de login - Turma-Schneider
