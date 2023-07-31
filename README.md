@@ -1,8 +1,8 @@
 # Bruno Valdson G dos Santos
 
-##### Gerente Analista de Suporte de Sistemas ERP na Colinas Informática
+##### Gerente Analista de Suporte de Sistemas ERP
 
-###### Colinas do Tocantins
+###### Palmas - TO
 
 
 
